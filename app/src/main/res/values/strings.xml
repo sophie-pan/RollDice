@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Roll Dice</string>
+    <string name="roll">Roll</string>
+    <string name="first_dice">first_dice</string>
+    <string name="second_dice">second_dice</string>
+    <string name="or">or</string>
+    <string name="shake">SHAKE</string>
+</resources>
