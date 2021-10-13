@@ -79,7 +79,7 @@ class MainActivity : AppCompatActivity() {
             currentAcceleration = sqrt((x * x + y * y + z * z).toDouble()).toFloat()
             val delta: Float = currentAcceleration - lastAcceleration
             acceleration = acceleration * 0.9f + delta
-            if (acceleration > 48) {
+            if (acceleration > 24) {
                 timer?.cancel()
                 rolling()
             }
