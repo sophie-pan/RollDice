@@ -2,7 +2,8 @@
 
 An Android application that allows users to roll two dices by clicking on a button or by shaking their phone.
 
-![The app preview](./images/RollDice.jpg)
+<p align="center"><kbd><img alt="the app preview" src="./images/RollDice.jpg" height="400"></kbd></p>
+
 
 This project allowed me to discover Android Studio. I followed [their tutorial](https://developer.android.com/courses/pathways/android-development-with-kotlin-4#quiz-/courses/quizzes/android-development-with-kotlin-4/android-development-with-kotlin-4) that taught me how to :
 * create a new project
